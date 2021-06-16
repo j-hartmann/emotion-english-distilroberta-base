@@ -4,4 +4,4 @@ This repository hosts sample code to use our fine-tuned DistilRoBERTa checkpoint
 
 Further details can be found on Hugging Face's model repository: https://huggingface.co/j-hartmann/emotion-english-distilroberta-base
 
-The code and repository build on chrsiebert's work, see: https://github.com/chrsiebert/sentiment-roberta-large-english
+The code examples and repository structure build on chrsiebert's work, see: https://github.com/chrsiebert/sentiment-roberta-large-english
