@@ -3,7 +3,7 @@
   "nbformat_minor": 0,
   "metadata": {
     "colab": {
-      "name": "sentiment-roberta-prediction-example.ipynb",
+      "name": "emotion_prediction_example.ipynb",
       "provenance": [],
       "collapsed_sections": []
     },
@@ -62,7 +62,7 @@
       },
       "source": [
         "# Load tokenizer and model, create trainer\n",
-        "model_name = \"siebert/sentiment-roberta-large-english\"\n",
+        "model_name = \"j-hartmann/emotion-english-distilroberta-base\"\n",
         "tokenizer = AutoTokenizer.from_pretrained(model_name)\n",
         "model = AutoModelForSequenceClassification.from_pretrained(model_name)\n",
         "trainer = Trainer(model=model)"
