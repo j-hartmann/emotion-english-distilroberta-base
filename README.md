@@ -1,5 +1,7 @@
-# Example Code for running our RoBERTa Sentiment Analysis model
+# Example Code for English Emotion Classification with DistilRoBERTa
 
-This repository hosts sample code to use our fine-tuned RoBERTa checkpoint to perform sentiment analysis on text data. 
+This repository hosts sample code to use our fine-tuned DistilRoBERTa checkpoint to perform emotion classification on text data. 
 
-Further details can be found on Hugging Face's model repository: https://huggingface.co/siebert/sentiment-roberta-large-english
+Further details can be found on Hugging Face's model repository: https://huggingface.co/j-hartmann/emotion-english-distilroberta-base
+
+The code and repository build on chrsiebert's work, see: https://github.com/chrsiebert/sentiment-roberta-large-english
