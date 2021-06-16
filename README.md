@@ -1,4 +1,4 @@
-# Example Code for English Emotion Classification with DistilRoBERTa
+# English Emotion Classification with DistilRoBERTa
 
 This repository hosts sample code to use our fine-tuned DistilRoBERTa checkpoint to perform emotion classification on text data. 
 
